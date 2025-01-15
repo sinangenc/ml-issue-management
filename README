@@ -42,3 +42,13 @@ Below is a brief description of the files and directories included in the projec
 
 - **`/comparison_datasets`**
   Contains two versions of the Eclipse/JDT dataset used for model comparison with other studies, as referenced in the thesis.
+
+## Model Architectures
+
+### Issue Assignment Model
+
+![Issue Assignment Model Architecture](model_architecture/model_architecture_assignment.jpeg)
+
+### Issue Localization Model
+
+![Issue Localization Model Architecture](model_architecture/model_architecture_localization.jpeg)
